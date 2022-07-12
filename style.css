@@ -1,11 +1,47 @@
 body {
-    background-color: aquamarine;
-
-    font-family: Tahoma;
+    margin: 80px;
+    background: url(../backgroundPic2.jpeg) no-repeat ;
+    /* background-size: cover; */
+    font-family: 'Times New Roman', Times, serif;
     line-height: 1.5;
-    font-size: 17px;
 }
 
-.title {
-    color: rgba(221, 3, 148, 0.822);
+.card {
+    /* height: 800px; */
+    position: relative;
+    padding: 10px;
+    /* display: inline-box; 
+    vertical-align: top; */
+    background-color: #fff;
+    box-shadow: 0px 0px 7px 0px #aaa;
+    border-radius: 10px;
+}
+
+.photo {
+    display: block;
+    border-radius: 10px;
+    margin left: 80px;
+    margin top: 100px;
+    height: 400px;
+    float: left;
+    margin-right: 25px;
+
+}
+
+.card-title {
+    font-size: 10px;
+    float: left;
+    margin-top: 100px;
+    margin-right: 15px;
+}
+
+.list {
+    font-size: 10px;
+    margin-top: 100px;
+    
+}
+
+.card-subtitle {
+    /* margin-right: 80px; */
+    font-size: 12px;
 }
