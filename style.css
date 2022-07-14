@@ -5,7 +5,7 @@
 } 
 
 body {
-    background: url(../backgroundPic2.jpeg) no-repeat ;
+    background: url(file:///G:/projects/Myweb/img/3.jpeg) no-repeat ;
     /* background-size: cover; */
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
@@ -90,7 +90,7 @@ float:left;
 }
 
 .text {
-    margin-bottom: 12.8%;
+    margin-bottom: 8%;
     
 }
 
